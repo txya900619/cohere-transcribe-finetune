@@ -17,7 +17,7 @@ Local artifacts such as `outputs/`, `wandb/`, `predictions_dir/`, and exported m
 
 ```bash
 uv sync
-uvx hf auth login
+uv hf auth login
 ```
 
 ## Train
