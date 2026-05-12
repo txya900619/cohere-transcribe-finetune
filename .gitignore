@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local training artifacts
+outputs/
+wandb/
+predictions_dir/
+hf_upload/
+*.sh
+
+# Local scratch/checkpoints
+temp_dir/
+checkpoints/
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
