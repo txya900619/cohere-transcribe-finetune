@@ -1,6 +1,6 @@
 # Fine-tuning Cohere Transcribe with Hugging Face Datasets
 
-This repository is a minimal example of how I fine-tuned `CohereLabs/cohere-transcribe-03-2026` with datasets from the Hugging Face Hub.
+This repository is a minimal example of how I fine-tuned [cohere-transcribe](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) with datasets from the Hugging Face Hub.
 
 ## Files
 
